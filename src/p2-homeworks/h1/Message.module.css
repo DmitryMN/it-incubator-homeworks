@@ -1,6 +1,9 @@
+
+
+
 .message_container {
     display: flex;
-    margin: 12px;
+    margin: 80px 12px 12px 12px;
 }
 
 .img_container {
@@ -16,7 +19,6 @@
 .imgbg_big {
     height: 50px;
     padding-right: 12px;
-    background-color: #87CEFA;
     border-bottom-right-radius: 23%;
 }
 
